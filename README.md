@@ -34,6 +34,7 @@ This first image shows results for the original data. It shows the accuracy scor
 
 ![original](./readme_images/original.png)
 
+
 The next image shows results for the resampled data. It shows the accuracy score, confusion matrix, and the classification report.
 
 ![resampled](./readme_images/resampled.png)
