@@ -1,4 +1,4 @@
-# Module 11 Challenge
+# Module 12 Challenge
 
 This is the repository for my module 12 challenge. In this module challenge, we used supervised machine learning to analyze lending activity and try to predict good loans and risky loans.
 
